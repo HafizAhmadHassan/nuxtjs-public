@@ -1,4 +1,5 @@
 # Nuxt 3 Public Starter
+*Created: 2024-01-27*
 
 A minimal **Nuxt 3** project deployed to Vercel.
 
